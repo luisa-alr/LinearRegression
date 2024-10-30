@@ -1,4 +1,4 @@
-## Data Mining - Linear Regression
+## Linear Regression Implementation
 Luisa Rosa - Spring 2024
 ---
 ## Instructions:
